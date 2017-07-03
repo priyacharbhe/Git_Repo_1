@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is E6E8-B428
+
+ Directory of C:\Users\i074356\Desktop\test
+
+07/03/2017  02:15 PM    <DIR>          .
+07/03/2017  02:15 PM    <DIR>          ..
+07/03/2017  02:02 PM               405 priya_test2.txt
+07/03/2017  02:15 PM                 0 Priya_test3.txt
+06/30/2017  02:36 PM               349 test1.txt
+               3 File(s)            754 bytes
+               2 Dir(s)  47,520,387,072 bytes free
